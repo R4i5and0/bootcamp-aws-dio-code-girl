@@ -1,7 +1,7 @@
 # ⭐ Constelação de Conhecimento AWS ☁️
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/303350/aws-2021.svg" alt="Logo AWS" width="150"/>
+  <img src="cloud.gif" alt="GIF de Nuvem" width="150"/>
 </p>
 
 ## Sobre este Repositório
