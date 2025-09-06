@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/l378b9LcC3cclsY2A/giphy.gif" alt="GIF de uma nuvem sorrindo" width="600"/>
 </p>
 
-## Sobre este Repositório
+## Sobre este Repositório ✨
 
 Bem-vindo(a) à minha constelação de conhecimento! Este repositório é o universo onde registro e conecto cada novo conceito sobre a nuvem AWS que aprendo durante o bootcamp **Code Girls (Santander | DIO | AWS)**.
 
 O objetivo é mapear meu aprendizado de forma clara e objetiva, transformando cada módulo em uma nova estrela brilhante no meu céu de habilidades.
 
-## Módulos de Estudo
+## Módulos de Estudo 
 
 * **Módulo 1:** Fundamentos de Cloud Computing e AWS
 * **Módulo 2:** Arquitetura de Soluções
