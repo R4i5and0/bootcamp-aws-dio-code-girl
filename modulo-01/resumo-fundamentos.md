@@ -75,13 +75,7 @@ A AWS possui uma infraestrutura global com **Regiões** e **Zonas de Disponibili
     * **Amazon EBS** (*Elastic Block Store*): Discos rígidos virtuais (como um HD ou SSD) para seus servidores EC2.
     * **Amazon VPC** (*Virtual Private Cloud*): Sua rede privada e isolada dentro da nuvem da AWS.
 * **Analogia**: É como alugar um **terreno vazio** com acesso à água e eletricidade. Você tem total liberdade para construir a casa que quiser, do jeito que quiser, mas toda a construção e manutenção é sua responsabilidade.
-
-#### 🎨 Modelo Visual para o Canva (IaaS)
-
-* **Título**: IaaS - Construindo sua Própria Casa
-* **Visual**: Um diagrama com duas colunas: "AWS Fornece" e "Você Gerencia".
-    * **Coluna "AWS Fornece" (a base)**: Ícones de um prédio (Datacenter), um servidor físico e cabos de rede.
-    * **Coluna "Você Gerencia" (os blocos que você coloca em cima)**: Ícones do pinguim do Linux, da janela do Windows, de um banco de dados, e de um escudo (segurança).
+* 
 
 ### 🛠️ PaaS (Platform as a Service - Plataforma como Serviço)
 
@@ -94,13 +88,7 @@ Este modelo remove a necessidade de você gerenciar a infraestrutura base. Você
     * **Amazon RDS** (*Relational Database Service*): Um serviço de banco de dados gerenciado (MySQL, PostgreSQL, etc.). A AWS cuida dos backups, atualizações e escalabilidade.
     * **AWS Lambda**: Um serviço que permite rodar código sem se preocupar com servidores (*serverless*).
 * **Analogia**: É como alugar uma **cozinha industrial completa**. Ela já vem com fogão, forno, geladeira e bancadas. Você só precisa trazer seus ingredientes (seu código) e cozinhar.
-
-#### 🎨 Modelo Visual para o Canva (PaaS)
-
-* **Título**: PaaS - Foco nos Seus Ingredientes (Código)
-* **Visual**: O mesmo diagrama de duas colunas.
-    * **Coluna "AWS Fornece" (agora maior)**: Ícones de datacenter, servidor, cabos, e também do Linux/Windows.
-    * **Coluna "Você Gerencia" (menor, só o topo)**: Ícones de código (`</>`) e de um banco de dados simples.
+  
 
 ### 📱 SaaS (Software as a Service - Software como Serviço)
 
@@ -113,13 +101,6 @@ Este modelo remove a necessidade de você gerenciar a infraestrutura base. Você
     * **Netflix**: Você assiste aos filmes, não gerencia a infraestrutura de streaming.
     * **Office 365**: Você usa o Word e o Excel online, não instala nem atualiza os servidores.
 * **Analogia**: É como **ir a um restaurante**. Você senta, escolhe o prato do cardápio e come. Você não se preocupa com a cozinha, os ingredientes ou a limpeza.
-
-#### 🎨 Modelo Visual para o Canva (SaaS)
-
-* **Título**: SaaS - Apenas Desfrute do Jantar
-* **Visual**: O mesmo diagrama.
-    * **Coluna "Provedor Fornece" (ocupa quase tudo)**: Ícones de datacenter, servidor, sistema operacional, e da aplicação final (ex: um ícone de e-mail).
-    * **Coluna "Você Gerencia" (uma pequena caixa)**: Ícone de um usuário.
 
 ---
 
