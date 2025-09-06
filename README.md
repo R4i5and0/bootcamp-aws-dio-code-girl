@@ -1,18 +1,21 @@
-# 🧰 Minha Caixa de Ferramentas AWS
+# ⭐ Constelação de Conhecimento AWS ☁️
 
-![Code Girls Logo](https://hermes.digitalinnovation.one/tracks/cover/6a5a92a5-c266-4e5a-8d75-27a1f5b085ce.png)
+<p align="center">
+  <img src="https://www.svgrepo.com/show/303350/aws-2021.svg" alt="Logo AWS" width="150"/>
+</p>
 
 ## Sobre este Repositório
 
-Bem-vindo(a) à minha Caixa de Ferramentas da Nuvem! Este espaço é onde eu guardo e organizo cada nova habilidade, conceito e "ferramenta" que adquiro durante o bootcamp **Code Girls (Santander | DIO | AWS)**.
+Bem-vindo(a) à minha constelação de conhecimento! Este repositório é o universo onde registro e conecto cada novo conceito sobre a nuvem AWS que aprendo durante o bootcamp **Code Girls (Santander | DIO | AWS)**.
 
-O objetivo é transformar conhecimento teórico em habilidades práticas e documentadas. Cada módulo representa uma nova prateleira de ferramentas que estou pronta para usar em projetos reais.
+O objetivo é mapear meu aprendizado de forma clara e objetiva, transformando cada módulo em uma nova estrela brilhante no meu céu de habilidades.
 
-## Ferramentas em Desenvolvimento (Módulos)
+## Módulos de Estudo
 
-* **Módulo 1 - Fundamentos da Nuvem:** (Em breve...)
-* **Módulo 2 - Arquitetura de Soluções:** (Em breve...)
-* **Módulo 3 - Serviços Essenciais:** (Em breve...)
+* **Módulo 1:** Fundamentos de Cloud Computing e AWS
+* **Módulo 2:** Arquitetura de Soluções
+* **Módulo 3:** Principais Serviços da AWS
+* **Módulo 4:** (Em breve...)
 
 ---
-*Projeto em construção no bootcamp Code Girls, uma parceria Santander, DIO e AWS.*
+*Explorando o universo da nuvem no bootcamp Code Girls, uma parceria entre Santander, DIO e AWS.*
