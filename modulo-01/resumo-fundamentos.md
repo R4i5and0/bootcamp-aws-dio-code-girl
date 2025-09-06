@@ -2,7 +2,7 @@
 
 ## 🌟 O que é Computação em Nuvem? (Conceito Fundamental)
 
-A computação em nuvem (do inglês, *Cloud Computing*) é a entrega de recursos de tecnologia (como poder computacional, armazenamento, bancos de dados, redes e software) pela internet, com um modelo de pagamento sob demanda.
+A computação em nuvem (do inglês, *Cloud Computing*) é a entrega de recursos de tecnologia (como poder computacional, armazenamento, bancos de dados, redes e software) pela internet, com um modelo de pagamento sob demanda(On demand).
 
 Em vez de comprar e manter seus próprios servidores, você acessa esses serviços de um provedor de nuvem, como a **Amazon Web Services (AWS)**.
 
