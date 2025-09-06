@@ -1,7 +1,7 @@
 # ⭐ Constelação de Conhecimento AWS ☁️
 
 <p align="center">
-  <img src="cloud.gif" alt="GIF de Nuvem" width="150"/>
+  <img src="https://media.giphy.com/media/l378b9LcC3cclsY2A/giphy.gif" alt="GIF de uma nuvem sorrindo" width="150"/>
 </p>
 
 ## Sobre este Repositório
