@@ -8,7 +8,7 @@
 
 Bem-vindo(a) à minha constelação 🪐 de conhecimento! Este repositório é o universo onde registro e conecto cada novo conceito sobre a nuvem AWS que aprendo durante o bootcamp **Code Girls (Santander | DIO | AWS)**.
 
-O objetivo é mapear meu aprendizado de forma clara e objetiva, transformando cada módulo em uma nova estrela brilhante no meu céu de habilidades.
+O objetivo é mapear meu aprendizado de forma clara.
 
 ## Módulos de Estudo 🌌
 
