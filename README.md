@@ -12,7 +12,7 @@ O objetivo é mapear meu aprendizado de forma clara.
 
 ## Módulos de Estudo 🌌
 
-* **Módulo 1:** [(aws/Modulo%201%20-%20Resumo%20Fundamentos%20AWS.md)](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/8855e9beb7e1dd97e60ee3005cf46fc691a00dea/aws/M%C3%B3dulo%201%20-%20Resumo%20Fundamentos%20AWS.md)
+* **Módulo 1:** Resumo Fundamentos AWS [(aws/Modulo%201%20-%20Resumo%20Fundamentos%20AWS.md)](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/8855e9beb7e1dd97e60ee3005cf46fc691a00dea/aws/M%C3%B3dulo%201%20-%20Resumo%20Fundamentos%20AWS.md)
 * **Módulo 2:** Custos e Faturamento na AWS
 * **Módulo 3:** (Em breve...) 🌟
 * **Módulo 4:** (Em breve...) 🌙
