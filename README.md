@@ -12,7 +12,7 @@ O objetivo é mapear meu aprendizado de forma clara.
 
 ## Módulos de Estudo 🌌
 
-* **Módulo 1:** Fundamentos de Cloud Computing e AWS
+* **Módulo 1:** (aws/Modulo%201%20-%20Resumo%20Fundamentos%20AWS.md)
 * **Módulo 2:** Custos e Faturamento na AWS
 * **Módulo 3:** (Em breve...) 🌟
 * **Módulo 4:** (Em breve...) 🌙
