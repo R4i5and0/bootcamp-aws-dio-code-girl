@@ -1,4 +1,4 @@
-# 🎓 Aula Completa: Dominando Custos e Faturamento na AWS
+# Módulo 2: Custos e Faturamento na AWS
 
 👋 Olá! Hoje vamos mergulhar fundo no universo financeiro da Amazon Web Services (AWS). O nosso objetivo é que, ao final desta aula, você entenda não apenas como a AWS cobra pelos seus serviços, mas por que o modelo dela é tão diferente e poderoso. Vamos cobrir tudo, sem pressa e com muitos exemplos.
 
