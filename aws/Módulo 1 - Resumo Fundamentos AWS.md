@@ -210,7 +210,7 @@ A AWS tem mais de 200 serviços! Aqui estão as categorias e os serviços mais i
 
 ---
 
-## 🎯 Resumo Final - O que Levar Deste Módulo
+## 🎯 Resumo Final
 
 ✅ **Nuvem é...** entregar recursos de TI pela internet com pagamento sob demanda. Pense em **alugar**, não em comprar.
 
