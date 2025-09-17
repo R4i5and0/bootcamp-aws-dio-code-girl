@@ -17,5 +17,10 @@ O objetivo é mapear meu aprendizado de forma clara.
 * **Módulo 3:** (Em breve...) 🌟
 * **Módulo 4:** (Em breve...) 🌙
 
+- [Módulo 1 – Resumo Fundamentos AWS](aws/Modulo%201%20-%20Resumo%20Fundamentos%20AWS.md)
+- [Módulo 2 – Custos e Faturamento na AWS](aws/Modulo%202%20-%20Custos%20e%20Faturamento.md)
+- [Módulo 3 – (Em breve...) 🐝]()
+
+
 ---
 *Explorando o universo da nuvem no bootcamp Code Girls, uma parceria entre Santander, DIO e AWS.*
