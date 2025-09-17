@@ -7,7 +7,7 @@
 ## Sobre este Repositório ✨
 
 Bem-vindo(a) à minha constelação de conhecimento 🪐!  
-Este repositório é o espaço onde registro e conecto cada conceito que estou aprendendo sobre a nuvem AWS, durante o bootcamp **Code Girls** — uma parceria inspiradora entre **Santander, DIO e AWS**.
+Este repositório é o espaço onde registro e conecto cada conceito que estou aprendendo sobre a nuvem AWS, durante o bootcamp **Code Girls** (uma parceria inspiradora entre **Santander, DIO e AWS**).☁️
 
 Aqui, o objetivo é mapear meu aprendizado de forma clara, acessível e contínua. Cada módulo representa uma estrela nova nessa jornada, e cada anotação é um passo rumo à construção de algo maior. Seja você estudante, curiosa(o) ou profissional da área, sinta-se à vontade para explorar, aprender junto ou simplesmente acompanhar minha evolução.
 
