@@ -14,7 +14,7 @@ O objetivo é mapear meu aprendizado de forma clara.
 
 * **Módulo 1:** Fundamentos de Cloud Computing e AWS
 * **Módulo 2:** Custos e Faturamento na AWS
-* **Módulo 3:** Principais Serviços da AWS
+* **Módulo 3:** (Em breve...) 🌟
 * **Módulo 4:** (Em breve...) 🌙
 
 ---
