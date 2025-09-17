@@ -133,5 +133,70 @@ Proibir uso de IA em contas de estagiários para evitar custos inesperados.
 
 ---
 
-📌 **Gostou do conteúdo?**  
-Sinta-se à vontade para contribuir, comentar ou compartilhar! 🚀
+---
+
+## ✅ Resumo Final
+
+### 💳 Como decidir a forma de pagamento...
+
+- **Não sabe quanto vai usar?**  
+  Comece com **Pagamento Conforme o Uso (Pay-as-you-go)**. É a opção mais flexível, sem compromissos.
+
+- **Sabe que vai usar por muito tempo?**  
+  Use **Instâncias Reservadas (Reserved Instances)** para garantir o maior desconto. É a opção mais barata para uso constante.
+
+- **Tem dinheiro para investir agora?**  
+  Pague a reserva totalmente adiantado (**AURI**) para ter o máximo de desconto.
+
+- **Não quer gastar muito de uma vez?**  
+  Pague a reserva parcialmente (**PURI**) ou sem pagamento adiantado (**NURI**) para equilibrar o desconto com o seu fluxo de caixa.
+
+---
+
+### 📊 O objetivo real do TCO (Total Cost of Ownership) é... liberar o seu negócio.
+
+- A análise prova que:  
+  Mudar para a nuvem economiza dinheiro não só em servidores, mas também em custos "invisíveis" como eletricidade, ar condicionado e salários da equipa de manutenção.
+
+- ✅ **Resultado final:**  
+  A sua equipa de TI deixa de "gastar tempo a arrumar a casa" e passa a focar-se em inovar e criar valor para a empresa.
+
+---
+
+### 🏛️ AWS Organizations é... criar regras e segurança para todos.
+
+- Pense nele como:  
+  O "governo central" das suas contas AWS.
+
+- 🛡️ A ferramenta mais poderosa:  
+  As **SCPs (Service Control Policies)** funcionam como "barreiras de proteção" que se aplicam a contas inteiras.
+
+- 🔐 Exemplo de segurança:  
+  Você pode criar uma SCP que proíbe o uso de um serviço em todas as contas de um departamento, garantindo que ninguém, nem mesmo o administrador, possa quebrar essa regra.
+
+---
+
+### 📉 Usar as ferramentas de custo é... ser proativo, não reativo.
+
+- ✅ **Seja Proativo com o AWS Budgets:**  
+  Crie um orçamento para receber alertas antes que os seus custos saiam do controlo.
+
+- 🔍 **Seja Reativo com o Cost Explorer:**  
+  Use os gráficos para analisar o que já aconteceu, entender os seus padrões de gastos e encontrar onde pode otimizar.
+
+---
+
+### 🤖 A diferença no Suporte AWS é... ajuda de robôs vs. ajuda de humanos.
+
+- **Ajuda Automatizada (para todos):**  
+  O **Trusted Advisor** é um "robô" que verifica a sua conta e dá dicas automáticas de como melhorar.
+
+- **Ajuda Humana (para planos superiores):**  
+  O **TAM (Technical Account Manager)** é um especialista humano, dedicado à sua conta, que oferece orientação estratégica e personalizada.
+
+---
+
+### 🧠 Lembre-se sempre:
+
+> A economia da nuvem é uma mudança de mentalidade.  
+> Trocar o medo de gastar com hardware pela liberdade de experimentar, pagar apenas pelo que usa e escalar globalmente em minutos.
