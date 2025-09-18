@@ -48,12 +48,8 @@ A nomenclatura `c7gn.xlarge` não é aleatória — ela encapsula informações 
 
 ---
 
-## ✨ Explicação do Diagrama de Serviços de Computação da AWS  
-<img width="789" height="941" alt="image" src="https://github.com/user-attachments/assets/5a0389bb-6347-4457-bb67-6be8c16f9450" />
-
----
-
 ## 🧠 Mapa Visual dos Serviços de Computação da AWS
+<img width="789" height="941" alt="image" src="https://github.com/user-attachments/assets/5a0389bb-6347-4457-bb67-6be8c16f9450" />
 
 Esta imagem apresenta um panorama organizado dos principais serviços e componentes que formam o ecossistema de **Computação (Compute)** da Amazon Web Services. Os elementos estão agrupados em áreas funcionais, facilitando a compreensão do papel de cada serviço.
 
