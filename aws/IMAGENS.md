@@ -2,20 +2,49 @@
 ## Os Tipos de insTâNCIAS EC2 ✨
 <img width="714" height="425" alt="image" src="https://github.com/user-attachments/assets/39eee973-a9c2-42c8-9fbe-34de4255ee77" />
 
-### Entendendo a Nomenclatura das Instâncias EC2
+
 ### Entendendo a Nomenclatura das Instâncias EC2 🤓
 
-O nome de um tipo de instância EC2, como `c7gn.xlarge`, não é aleatório[cite: 74]. Ele segue uma convenção que descreve as principais características da máquina virtual. Cada parte do nome fornece uma informação específica sobre sua família, geração e capacidade, como detalhado abaixo:
+# Significado do Nome de uma Instância EC2: `c7gn.xlarge`
 
-* [cite_start]**c - Família da Instância (Instance Family):** A primeira letra indica a qual família a instância pertence, que é otimizada para um tipo específico de carga de trabalho[cite: 71]. [cite_start]No exemplo, **"c"** significa "Computação Otimizada" (Compute Optimized), ideal para tarefas que exigem alto poder de processamento, como processamento em lote e codificação de vídeo[cite: 72, 85]. ⚙️
+O nome de uma instância EC2, como `c7gn.xlarge`, segue uma convenção que descreve suas principais características. Cada parte do nome fornece informações específicas sobre a família, geração, processador, capacidades adicionais e tamanho da instância.
 
-* [cite_start]**7 - Geração da Instância (Instance Generation):** O número que se segue à letra representa a geração da família da instância[cite: 75]. [cite_start]Gerações mais altas (como 7, neste caso) são mais novas, mais poderosas e geralmente oferecem um melhor custo-benefício em comparação com gerações mais antigas[cite: 76]. 🚀
+## 🧩 Componentes do Nome
 
-* **g - Família do Processador (Processor Family):** Letras adicionais após a geração podem indicar características específicas do hardware, como o tipo de processador. Neste caso, **"g"** indica que a instância utiliza processadores AWS Graviton (baseados em ARM).
+### 🔹 `c` – Família da Instância (Instance Family)
+- Indica o tipo de carga de trabalho para o qual a instância é otimizada.
+- `c` significa **Computação Otimizada** (*Compute Optimized*).
+- Ideal para tarefas que exigem alto poder de processamento, como:
+  - Processamento em lote
+  - Codificação de vídeo
 
-* **n - Capacidade Adicional (Additional Capability):** Uma letra adicional também pode sinalizar capacidades extras. [cite_start]O **"n"** aqui significa que a instância possui rede otimizada (Optimized Networking), ideal para cargas de trabalho com uso intensivo de rede, oferecendo maior performance de pacotes por segundo (PPS) e latências mais baixas[cite: 93]. 🌐
+### 🔹 `7` – Geração da Instância (Instance Generation)
+- Representa a geração da família da instância.
+- Gerações mais altas (como `7`) são:
+  - Mais novas
+  - Mais poderosas
+  - Com melhor custo-benefício em relação às anteriores
 
-* [cite_start]**.xlarge - Tamanho da Instância (Instance Size):** A parte final do nome define o tamanho da instância e seus recursos[cite: 76]. [cite_start]Os tamanhos são relativos dentro da mesma família; por exemplo, uma instância `2xlarge` teria o dobro dos recursos (como vCPU e memória) de uma `xlarge`[cite: 77]. [cite_start]O tamanho da instância também está diretamente ligado à largura de banda de rede disponível[cite: 78]. 📏
+### 🔹 `g` – Família do Processador (Processor Family)
+- Indica características específicas do hardware.
+- `g` significa que a instância utiliza **processadores AWS Graviton** (baseados em ARM).
+
+### 🔹 `n` – Capacidade Adicional (Additional Capability)
+- Sinaliza capacidades extras da instância.
+- `n` indica **rede otimizada** (*Optimized Networking*), oferecendo:
+  - Maior performance de pacotes por segundo (PPS)
+  - Latências mais baixas
+
+### 🔹 `.xlarge` – Tamanho da Instância (Instance Size)
+- Define o tamanho da instância e seus recursos.
+- Os tamanhos são relativos dentro da mesma família:
+  - Por exemplo, `2xlarge` tem o dobro de recursos (vCPU, memória) de uma `xlarge`.
+- Também influencia diretamente na **largura de banda de rede** disponível.
+
+---
+
+💡 **Resumo**:  
+A nomenclatura `c7gn.xlarge` não é aleatória — ela encapsula informações cruciais sobre desempenho, arquitetura e capacidade da instância EC2.
 
 <br>
 <br>
