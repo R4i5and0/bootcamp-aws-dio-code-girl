@@ -17,9 +17,13 @@ Aqui, o objetivo é mapear meu aprendizado de forma clara, acessível e contínu
 - [**Módulo 2 – Custos e Faturamento na AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/M%C3%B3dulo%202%20-%20Custos%20e%20Faturamento.md) 🌙
 - [**Módulo 3 – Introdução ao Amazon EC2**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/55580e61184554b6147eb2e1567c424d7052d3c5/aws/M%C3%B3dulo%203%20-%20Introdu%C3%A7%C3%A3o%20ao%20Amazon%20EC2.md) 🌟  
 - **Módulo 4 – IAM (Em breve...)** 🌙
-- **Módulo 5 – S3 (Em breve...)** 🌙
+- **Módulo 5 – S3 (Em breve...)** 🌟
 - **Módulo 6 – IAM (Em breve...)** 🌙
-- https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/8170866e8ffaa359e6899a71ad4eafb3db6423fb/aws/IMAGENS.md
+---
+
+## IMG em construção✨
+
+- [https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/8170866e8ffaa359e6899a71ad4eafb3db6423fb/aws/IMAGENS.md]
 
 ---
 
