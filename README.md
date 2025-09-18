@@ -23,7 +23,7 @@ Aqui, o objetivo é mapear meu aprendizado de forma clara, acessível e contínu
 
 ## IMG em construção✨
 
-- [https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/8170866e8ffaa359e6899a71ad4eafb3db6423fb/aws/IMAGENS.md]
+- [[https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/8170866e8ffaa359e6899a71ad4eafb3db6423fb/aws/IMAGENS.md]](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/660fcce3bbf4f3328f7b94543452e7028ce234e4/aws/img.md)
 
 ---
 
