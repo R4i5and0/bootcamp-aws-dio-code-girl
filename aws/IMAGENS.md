@@ -105,3 +105,75 @@ Esta imagem apresenta um panorama organizado dos principais serviços e componen
 ---
 
 💡 **Dica:** Esse mapa é excelente para visualizar como os serviços se conectam e se complementam dentro do universo de computação da AWS.
+
+---
+## 🧭 Visão Geral dos Serviços de Computação da AWS
+
+<img width="1454" height="852" alt="image" src="https://github.com/user-attachments/assets/ee798ea2-4225-4af5-9258-c44be5e2824a" />
+
+Este diagrama apresenta uma visão categorizada dos principais serviços de computação da Amazon Web Services (AWS). Os serviços estão agrupados em seis categorias funcionais, facilitando a escolha conforme o tipo de aplicação ou arquitetura desejada.
+
+---
+
+## 🖥️ EC2 – Instâncias Virtuais
+
+Serviços voltados para a criação e gerenciamento de servidores virtuais:
+
+- **Amazon EC2:** Serviço principal para executar máquinas virtuais.
+- **Amazon EC2 Auto Scaling:** Ajusta automaticamente o número de instâncias conforme a demanda.
+- **EC2 Image Builder:** Automatiza a criação e manutenção de imagens de máquina.
+- **Amazon Lightsail:** Alternativa simplificada ao EC2, ideal para projetos menores.
+
+---
+
+## 📦 Containers
+
+Serviços para empacotar, orquestrar e executar aplicações em contêineres:
+
+- **Amazon ECS / ECS Anywhere:** Gerencia contêineres com ou sem dependência da nuvem.
+- **Amazon EKS / EKS Anywhere:** Orquestra contêineres com Kubernetes, na AWS ou localmente.
+- **Amazon ECR:** Repositório para armazenar imagens de contêiner.
+- **AWS Fargate:** Executa contêineres sem necessidade de gerenciar servidores.
+- **AWS Batch:** Processa grandes volumes de tarefas em lote usando contêineres.
+
+---
+
+## ⚡ Serverless
+
+Serviços que permitem executar código sem gerenciar servidores:
+
+- **AWS Lambda:** Executa funções em resposta a eventos, com escalabilidade automática.
+- **AWS Fargate:** Também aparece aqui por permitir execução sem provisionamento de infraestrutura.
+
+---
+
+## 🌍 On-premises / Edge
+
+Soluções para ambientes híbridos e computação de borda:
+
+- **AWS Local Zones / Dedicated Local Zones:** Infraestrutura da AWS próxima ao usuário final.
+- **AWS Outposts:** Leva serviços da AWS para data centers locais.
+- **AWS Wavelength:** Otimiza aplicações de baixa latência em redes 5G.
+
+---
+
+## 💰 Otimização de Custos
+
+Serviços voltados para reduzir custos operacionais:
+
+- **Amazon EC2 Spot Instances:** Utiliza capacidade ociosa da AWS com preços reduzidos.
+
+---
+
+## 🔀 ELB – Elastic Load Balancing
+
+Serviços que distribuem o tráfego entre múltiplas instâncias:
+
+- **Application Load Balancer:** Ideal para aplicações web modernas.
+- **Network Load Balancer:** Alta performance para tráfego TCP.
+- **Gateway Load Balancer:** Integra appliances de terceiros com balanceamento de carga.
+
+---
+
+💡 **Resumo**:  
+Esse mapa é excelente para entender como os serviços de computação da AWS se organizam por tipo de uso — desde servidores tradicionais até soluções serverless e de borda. Ele ajuda a visualizar rapidamente qual serviço é mais adequado para cada cenário.
