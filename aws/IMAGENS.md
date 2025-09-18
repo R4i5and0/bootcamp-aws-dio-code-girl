@@ -1,41 +1,41 @@
-
-## Os Tipos de insTâNCIAS EC2 ✨
+## ✨ Os Tipos de Instâncias EC2  
 <img width="714" height="425" alt="image" src="https://github.com/user-attachments/assets/39eee973-a9c2-42c8-9fbe-34de4255ee77" />
 
+---
 
-### Entendendo a Nomenclatura das Instâncias EC2 🤓
+## 🤓 Entendendo a Nomenclatura das Instâncias EC2
 
-# Significado do Nome de uma Instância EC2: `c7gn.xlarge`
+### Significado do Nome de uma Instância EC2: `c7gn.xlarge`
 
 O nome de uma instância EC2, como `c7gn.xlarge`, segue uma convenção que descreve suas principais características. Cada parte do nome fornece informações específicas sobre a família, geração, processador, capacidades adicionais e tamanho da instância.
 
-## 🧩 Componentes do Nome
+### 🧩 Componentes do Nome
 
-### 🔹 `c` – Família da Instância (Instance Family)
+#### 🔹 `c` – Família da Instância (Instance Family)
 - Indica o tipo de carga de trabalho para o qual a instância é otimizada.
 - `c` significa **Computação Otimizada** (*Compute Optimized*).
 - Ideal para tarefas que exigem alto poder de processamento, como:
   - Processamento em lote
   - Codificação de vídeo
 
-### 🔹 `7` – Geração da Instância (Instance Generation)
+#### 🔹 `7` – Geração da Instância (Instance Generation)
 - Representa a geração da família da instância.
 - Gerações mais altas (como `7`) são:
   - Mais novas
   - Mais poderosas
   - Com melhor custo-benefício em relação às anteriores
 
-### 🔹 `g` – Família do Processador (Processor Family)
+#### 🔹 `g` – Família do Processador (Processor Family)
 - Indica características específicas do hardware.
 - `g` significa que a instância utiliza **processadores AWS Graviton** (baseados em ARM).
 
-### 🔹 `n` – Capacidade Adicional (Additional Capability)
+#### 🔹 `n` – Capacidade Adicional (Additional Capability)
 - Sinaliza capacidades extras da instância.
 - `n` indica **rede otimizada** (*Optimized Networking*), oferecendo:
   - Maior performance de pacotes por segundo (PPS)
   - Latências mais baixas
 
-### 🔹 `.xlarge` – Tamanho da Instância (Instance Size)
+#### 🔹 `.xlarge` – Tamanho da Instância (Instance Size)
 - Define o tamanho da instância e seus recursos.
 - Os tamanhos são relativos dentro da mesma família:
   - Por exemplo, `2xlarge` tem o dobro de recursos (vCPU, memória) de uma `xlarge`.
@@ -46,23 +46,20 @@ O nome de uma instância EC2, como `c7gn.xlarge`, segue uma convenção que desc
 💡 **Resumo**:  
 A nomenclatura `c7gn.xlarge` não é aleatória — ela encapsula informações cruciais sobre desempenho, arquitetura e capacidade da instância EC2.
 
-<br>
-<br>
 ---
----
----
-## Explicação do Diagrama de Serviços de Computação da AWS  ✨
+
+## ✨ Explicação do Diagrama de Serviços de Computação da AWS  
 <img width="789" height="941" alt="image" src="https://github.com/user-attachments/assets/5a0389bb-6347-4457-bb67-6be8c16f9450" />
 
-# 🧠 Mapa Visual dos Serviços de Computação da AWS
+---
+
+## 🧠 Mapa Visual dos Serviços de Computação da AWS
 
 Esta imagem apresenta um panorama organizado dos principais serviços e componentes que formam o ecossistema de **Computação (Compute)** da Amazon Web Services. Os elementos estão agrupados em áreas funcionais, facilitando a compreensão do papel de cada serviço.
 
 ---
 
 ## 🔹 1. Amazon EC2 e seus Componentes *(Canto Superior Esquerdo)*
-
-Este é o bloco central e mais detalhado, representando o serviço de máquinas virtuais da AWS e seus principais recursos:
 
 - **Amazon EC2:** Serviço principal para criar servidores virtuais (instâncias).
 - **AMI (Amazon Machine Image):** Templates usados para criar novas instâncias.
@@ -76,8 +73,6 @@ Este é o bloco central e mais detalhado, representando o serviço de máquinas 
 
 ## 🐳 2. Serviços de Contêineres e Simplificados *(Canto Superior Direito)*
 
-Foco em aplicações em contêineres e opções simplificadas de servidores virtuais:
-
 - **Amazon ECR (Elastic Container Registry):** Armazena e gerencia imagens de contêiner (ex: Docker).
   - Ícone: `ECR registry` representa o repositório de imagens.
 - **Amazon ECS (Elastic Container Service):** Orquestra e executa aplicações em contêineres.
@@ -87,8 +82,6 @@ Foco em aplicações em contêineres e opções simplificadas de servidores virt
 ---
 
 ## 🌐 3. Rede e Conectividade *(Amazon VPC – Canto Inferior Esquerdo)*
-
-Componentes que formam a base de rede para os serviços de computação:
 
 - **Amazon VPC:** Cria uma rede virtualmente isolada na nuvem.
 - **Ícones de Rede:**
@@ -100,8 +93,6 @@ Componentes que formam a base de rede para os serviços de computação:
 ---
 
 ## ⚙️ 4. Outros Serviços de Computação e Balanceamento de Carga *(Canto Inferior Direito)*
-
-Modelos alternativos de computação e serviços de distribuição de tráfego:
 
 - **AWS Batch:** Executa grandes volumes de trabalhos em lote.
 - **AWS Elastic Beanstalk:** Plataforma como Serviço (PaaS) para implantação simplificada de aplicações.
