@@ -3,18 +3,20 @@
 <img width="714" height="425" alt="image" src="https://github.com/user-attachments/assets/39eee973-a9c2-42c8-9fbe-34de4255ee77" />
 
 ### Entendendo a Nomenclatura das Instâncias EC2
+### Entendendo a Nomenclatura das Instâncias EC2 🤓
 
-[cite_start]O nome de um tipo de instância EC2, como `c7gn.xlarge`, não é aleatório[cite: 74]. Ele segue uma convenção que descreve as principais características da máquina virtual. Cada parte do nome fornece uma informação específica sobre sua família, geração e capacidade, como detalhado abaixo:
+O nome de um tipo de instância EC2, como `c7gn.xlarge`, não é aleatório[cite: 74]. Ele segue uma convenção que descreve as principais características da máquina virtual. Cada parte do nome fornece uma informação específica sobre sua família, geração e capacidade, como detalhado abaixo:
 
-* [cite_start]**c - Família da Instância (Instance Family):** A primeira letra indica a qual família a instância pertence, que é otimizada para um tipo específico de carga de trabalho[cite: 71]. [cite_start]No exemplo, **"c"** significa "Computação Otimizada" (Compute Optimized), ideal para tarefas que exigem alto poder de processamento, como processamento em lote e codificação de vídeo[cite: 72, 85].
+* [cite_start]**c - Família da Instância (Instance Family):** A primeira letra indica a qual família a instância pertence, que é otimizada para um tipo específico de carga de trabalho[cite: 71]. [cite_start]No exemplo, **"c"** significa "Computação Otimizada" (Compute Optimized), ideal para tarefas que exigem alto poder de processamento, como processamento em lote e codificação de vídeo[cite: 72, 85]. ⚙️
 
-* [cite_start]**7 - Geração da Instância (Instance Generation):** O número que se segue à letra representa a geração da família da instância[cite: 75]. [cite_start]Gerações mais altas (como 7, neste caso) são mais novas, mais poderosas e geralmente oferecem um melhor custo-benefício em comparação com gerações mais antigas[cite: 76].
+* [cite_start]**7 - Geração da Instância (Instance Generation):** O número que se segue à letra representa a geração da família da instância[cite: 75]. [cite_start]Gerações mais altas (como 7, neste caso) são mais novas, mais poderosas e geralmente oferecem um melhor custo-benefício em comparação com gerações mais antigas[cite: 76]. 🚀
 
 * **g - Família do Processador (Processor Family):** Letras adicionais após a geração podem indicar características específicas do hardware, como o tipo de processador. Neste caso, **"g"** indica que a instância utiliza processadores AWS Graviton (baseados em ARM).
 
-* **n - Capacidade Adicional (Additional Capability):** Uma letra adicional também pode sinalizar capacidades extras. [cite_start]O **"n"** aqui significa que a instância possui rede otimizada (Optimized Networking), ideal para cargas de trabalho com uso intensivo de rede, oferecendo maior performance de pacotes por segundo (PPS) e latências mais baixas[cite: 93].
+* **n - Capacidade Adicional (Additional Capability):** Uma letra adicional também pode sinalizar capacidades extras. [cite_start]O **"n"** aqui significa que a instância possui rede otimizada (Optimized Networking), ideal para cargas de trabalho com uso intensivo de rede, oferecendo maior performance de pacotes por segundo (PPS) e latências mais baixas[cite: 93]. 🌐
 
-* [cite_start]**.xlarge - Tamanho da Instância (Instance Size):** A parte final do nome define o tamanho da instância e seus recursos[cite: 76]. [cite_start]Os tamanhos são relativos dentro da mesma família; por exemplo, uma instância `2xlarge` teria o dobro dos recursos (como vCPU e memória) de uma `xlarge`[cite: 77]. [cite_start]O tamanho da instância também está diretamente ligado à largura de banda de rede disponível[cite: 78].
+* [cite_start]**.xlarge - Tamanho da Instância (Instance Size):** A parte final do nome define o tamanho da instância e seus recursos[cite: 76]. [cite_start]Os tamanhos são relativos dentro da mesma família; por exemplo, uma instância `2xlarge` teria o dobro dos recursos (como vCPU e memória) de uma `xlarge`[cite: 77]. [cite_start]O tamanho da instância também está diretamente ligado à largura de banda de rede disponível[cite: 78]. 📏
+
 <br>
 <br>
 
