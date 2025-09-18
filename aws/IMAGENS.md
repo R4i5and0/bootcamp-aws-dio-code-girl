@@ -48,7 +48,9 @@ A nomenclatura `c7gn.xlarge` não é aleatória — ela encapsula informações 
 
 <br>
 <br>
-
+---
+---
+---
 ## Explicação do Diagrama de Serviços de Computação da AWS  ✨
 <img width="789" height="941" alt="image" src="https://github.com/user-attachments/assets/5a0389bb-6347-4457-bb67-6be8c16f9450" />
 
