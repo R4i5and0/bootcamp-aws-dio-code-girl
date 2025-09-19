@@ -1,4 +1,4 @@
-## Introdução ao Amazon EC2 ✨
+# Introdução ao Amazon EC2 ✨
 
 O serviço mais essencial e poderoso da AWS é o **Amazon Elastic Compute Cloud (EC2)**, ou Nuvem de Computação Elástica da Amazon. É o serviço que permite o aluguel e a utilização de servidores virtuais na nuvem. Numa analogia, se a AWS fosse uma cidade, o EC2 representaria a eletricidade e os edifícios.
 
