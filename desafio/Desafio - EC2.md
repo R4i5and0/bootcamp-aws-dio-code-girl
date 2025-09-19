@@ -52,7 +52,7 @@ Este fluxo foi cuidadosamente elaborado para ajudar o usuário a organizar tanto
 
 ### 🧠 Observação Importante
 
-Embora os dois módulos — *Biblioteca de Músicas* e *Diário de Estudos* — compartilhem uma estrutura semelhante, o diagrama apresentado não se limita apenas a esses casos. Ele representa uma **arquitetura versátil**, que pode ser aplicada a diversos tipos de sistemas de organização pessoal ou profissional.
+Embora os dois módulos *Biblioteca de Músicas* e *Diário de Estudos* compartilhem uma estrutura semelhante, o diagrama apresentado não se limita apenas a esses casos. Ele representa uma **arquitetura versátil**, que pode ser aplicada a diversos tipos de sistemas de organização pessoal ou profissional.
 
 A combinação dos serviços da AWS (EC2, S3, Lambda e EBS) permite criar fluxos de processamento e armazenamento que atendem a diferentes necessidades, como:
 
