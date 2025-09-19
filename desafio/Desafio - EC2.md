@@ -10,7 +10,7 @@ Este fluxograma foi criado para representar de forma clara e técnica a arquitet
   O usuário acessa o sistema por meio de uma interface web hospedada no **Amazon EC2** 🖥️, que funciona como ponto central de interação.
 
 - **📤 Envio de Arquivos:**  
-  Através dessa interface, o usuário pode enviar diversos tipos de arquivos, como músicas 🎵, PDFs 📄 e imagens 🖼️, relacionados aos dois módulos do sistema — tanto para organizar seus estudos 📚 quanto para gerenciar sua biblioteca de músicas 🎶.
+  Através dessa interface, o usuário pode enviar diversos tipos de arquivos, como músicas 🎵, PDFs 📄 e imagens 🖼️, relacionados aos dois módulos do sistema, tanto para organizar seus estudos 📚 quanto para gerenciar sua biblioteca de músicas 🎶.
 
 - **💾 Armazenamento Inicial:**  
   Os arquivos enviados são armazenados no **Amazon S3** ☁️, que oferece armazenamento seguro, escalável e durável para os dados brutos.
