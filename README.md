@@ -33,7 +33,7 @@ Aqui, o objetivo é mapear meu aprendizado de forma clara, acessível e contínu
 ## 🖼️ Galeria de Imagens e Seus Conceitos ☁️
 > *Este conteúdo está em construção e será atualizado continuamente.*
 
-- [**Imagens e Conceitos AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/img-e-conceitos.md) ✨
+- [**Imagens e Conceitos AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/c076734be519dab2b39fa28de03660971be7ec4f/imagens/imagens-e-conceitos-EC2.md) ✨
 
 ---
 
