@@ -11,19 +11,26 @@ Este repositório é o espaço onde registro e conecto cada conceito que estou a
 
 Aqui, o objetivo é mapear meu aprendizado de forma clara, acessível e contínua. Cada módulo representa uma estrela nova nessa jornada, e cada anotação é um passo rumo à construção de algo maior. Seja você estudante, curiosa(o) ou profissional da área, sinta-se à vontade para explorar e aprender junto.
 
-## Módulos de Estudo 🌌
+## 🌌 Módulos de Estudo
 
-- [**Módulo 1 – Resumo Fundamentos AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/M%C3%B3dulo%201%20-%20Resumo%20Fundamentos%20AWS.md) 🌟 
-- [**Módulo 2 – Custos e Faturamento na AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/M%C3%B3dulo%202%20-%20Custos%20e%20Faturamento.md) 🌙
+- [**Módulo 1 – Resumo Fundamentos AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/M%C3%B3dulo%201%20-%20Resumo%20Fundamentos%20AWS.md) 🌟  
+- [**Módulo 2 – Custos e Faturamento na AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/M%C3%B3dulo%202%20-%20Custos%20e%20Faturamento.md) 🌙  
 - [**Módulo 3 – Introdução ao Amazon EC2**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/55580e61184554b6147eb2e1567c424d7052d3c5/aws/M%C3%B3dulo%203%20-%20Introdu%C3%A7%C3%A3o%20ao%20Amazon%20EC2.md) 🌟  
-- **Módulo 4 – (Em breve...)** 🌙
-- **Módulo 5 – (Em breve...)** 🌟
-- **Módulo 6 – (Em breve...)** 🌙
+- **Módulo 4 – (Em breve...)** 🌙  
+- **Módulo 5 – (Em breve...)** 🌟  
+- **Módulo 6 – (Em breve...)** 🌙  
+
 ---
 
-## IMG em construção✨
+## 🚀 Desafios Práticos
 
-- [[https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/8170866e8ffaa359e6899a71ad4eafb3db6423fb/aws/IMAGENS.md]](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/660fcce3bbf4f3328f7b94543452e7028ce234e4/aws/img.md)
+- [**Desafio – Arquitetura com EC2, S3, Lambda e EBS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/desafio/Desafio%20-%20EC2.md) 🌟
+
+---
+
+## 🖼️ Galeria de Imagens e Seus Conceitos
+
+- [**Imagens e Diagramas AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/img.md) ✨
 
 ---
 
