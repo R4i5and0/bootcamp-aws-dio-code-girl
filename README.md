@@ -12,6 +12,7 @@ Este repositório é o espaço onde registro e conecto cada conceito que estou a
 Aqui, o objetivo é mapear meu aprendizado de forma clara, acessível e contínua. Cada módulo representa uma estrela nova nessa jornada, e cada anotação é um passo rumo à construção de algo maior. Seja você estudante, curiosa(o) ou profissional da área, sinta-se à vontade para explorar e aprender junto.
 
 ## 🌌 Módulos de Estudo ☁️
+> *Este conteúdo está em construção e será atualizado continuamente.*
 
 - [**Módulo 1 – Resumo Fundamentos AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/M%C3%B3dulo%201%20-%20Resumo%20Fundamentos%20AWS.md) 🌟  
 - [**Módulo 2 – Custos e Faturamento na AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/M%C3%B3dulo%202%20-%20Custos%20e%20Faturamento.md) 🌙  
@@ -23,12 +24,14 @@ Aqui, o objetivo é mapear meu aprendizado de forma clara, acessível e contínu
 ---
 
 ## 🚀 Desafios Práticos bootcamp Code Girls ☁️
+> *Este conteúdo está em construção e será atualizado continuamente.*
 
 - [**Desafio – Arquitetura com EC2, S3, Lambda e EBS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/desafio/Desafio%20-%20EC2.md) 🌟
 
 ---
 
 ## 🖼️ Galeria de Imagens e Seus Conceitos ☁️
+> *Este conteúdo está em construção e será atualizado continuamente.*
 
 - [**Imagens e Conceitos AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/img-e-conceitos.md) ✨
 
