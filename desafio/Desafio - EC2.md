@@ -1,5 +1,5 @@
 <img width="871" height="694" alt="image" src="https://github.com/user-attachments/assets/d00b94df-6319-4a53-937a-a83e0e7ca957" />
-📊 [Clique aqui para visualizar o diagrama animado]file:///C:/Users/Raissa/Pictures/Diagrama%20de%20Organiza%C3%A7%C3%A3o.drawio.html
+
 
 ## Explicação do Fluxo do Sistema de Organização Pessoal 🎵📚
 
