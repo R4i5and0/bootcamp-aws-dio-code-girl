@@ -22,7 +22,7 @@ Aqui, o objetivo é mapear meu aprendizado de forma clara, acessível e contínu
 
 ---
 
-## 🚀 Desafios Práticos
+## 🚀 Desafios Práticos bootcamp **Code Girls**
 
 - [**Desafio – Arquitetura com EC2, S3, Lambda e EBS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/desafio/Desafio%20-%20EC2.md) 🌟
 
