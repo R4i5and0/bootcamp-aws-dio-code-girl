@@ -14,7 +14,7 @@ Aqui, o objetivo é mapear meu aprendizado de forma clara, acessível e contínu
 ## 🌌 Módulos de Estudo ☁️
 > *Este conteúdo está em construção e será atualizado continuamente.*
 
-- [**Módulo 1 – Resumo Fundamentos AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/M%C3%B3dulo%201%20-%20Resumo%20Fundamentos%20AWS.md) 🌟  
+- [**Módulo 1 – Resumo Fundamentos AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/0c157dd3452ce3f2649ed87d86a89ba6d9cd6a1e/aws/M%C3%B3dulo%201-%20Resumo%20Fundamentos%20AWS.md) 🌟  
 - [**Módulo 2 – Custos e Faturamento na AWS**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/main/aws/M%C3%B3dulo%202%20-%20Custos%20e%20Faturamento.md) 🌙  
 - [**Módulo 3 – Introdução ao Amazon EC2**](https://github.com/R4i5and0/bootcamp-aws-dio-code-girl/blob/55580e61184554b6147eb2e1567c424d7052d3c5/aws/M%C3%B3dulo%203%20-%20Introdu%C3%A7%C3%A3o%20ao%20Amazon%20EC2.md) 🌟  
 - **Módulo 4 – (Em breve...)** 🌙  
