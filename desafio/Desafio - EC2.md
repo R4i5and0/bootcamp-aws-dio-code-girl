@@ -14,7 +14,7 @@ O usuário acessa o sistema por meio de uma interface web hospedada no **Amazon 
 
 ### 📤 Envio de Arquivos
 
-Através dessa interface, o usuário pode enviar diversos tipos de arquivos, como músicas, PDFs e imagens, relacionados aos dois módulos do sistema — tanto para organizar seus estudos quanto para gerenciar sua biblioteca de músicas.
+Através dessa interface, o usuário pode enviar diversos tipos de arquivos, como músicas, PDFs e imagens, relacionados aos dois módulos do sistema tanto para organizar seus estudos quanto para gerenciar sua biblioteca de músicas.
 
 ---
 
@@ -43,10 +43,6 @@ Os dados resultantes do processamento (metadados, resumos, organização) são a
 ### 🔍 Consulta e Apresentação dos Dados
 
 A interface web no EC2 consulta o **Amazon EBS** para recuperar e exibir as informações organizadas ao usuário, garantindo uma experiência integrada e eficiente.
-
----
-
-Este fluxo foi cuidadosamente elaborado para ajudar o usuário a organizar tanto seus estudos quanto sua coleção de músicas, utilizando uma arquitetura robusta e escalável baseada nos serviços da AWS.
 
 ---
 
