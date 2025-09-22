@@ -1,4 +1,5 @@
-<img width="871" height="694" alt="image" src="https://github.com/user-attachments/assets/d00b94df-6319-4a53-937a-a83e0e7ca957" />
+<img width="880" height="718" alt="image" src="https://github.com/user-attachments/assets/76489341-69f7-42d4-9883-61f5aba6672a" />
+
 
 ## 🎵📚 Explicação do Fluxo do Sistema de Organização Pessoal
 
